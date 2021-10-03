@@ -1,9 +1,4 @@
-beautifulsoup4==4.9.1
-certifi==2019.11.28
-chardet==3.0.4
-idna==2.8
-PySocks==1.7.1
-requests==2.22.0
-soupsieve==2.0.1
-urllib3==1.26.5
-yandex-music==0.1.2
+beautifulsoup4==4.10.0
+eyed3==0.9.6
+requests==2.26.0
+yandex-music==1.0.0

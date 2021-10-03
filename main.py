@@ -11,4 +11,4 @@ def get_settings():
 if __name__ == "__main__":
     settings = get_settings()
     ya_client = YMusicImporter(**settings)
-    ya_client.import_playlist_from_apple(sys.argv[1])
+    ya_client.playlist_import(sys.argv[1])

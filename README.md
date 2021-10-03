@@ -10,15 +10,11 @@ $ pip3 install -r requirements.txt
 
 
 ```sh
-$ python main.py <apple_playlist_url>
+$ python main.py <playlist_path>
 ```
 
 ### Example
 
 ```sh
-$ python main.py https://music.apple.com/ru/playlist/vitamins-for-mental-health/pl.u-11zBJWySZyzkX5
+$ python main.py D:/Desktop/Rating.m3u
 ```
-Output:  
-
-
-![img](https://drive.google.com/u/0/uc?id=1Pasv55IhLhRpkHaQSSmoIZ8B3_X12FQ0&export=download)
